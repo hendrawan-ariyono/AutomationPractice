@@ -1,0 +1,19 @@
+ENVIRONMENT
+
+- OSX Yosemite 10.10
+- Python 3.5.1
+- Selenium 2.50.1
+- Virtualenv 14.0.5
+- Nosetests 1.3.7
+- Browser: Firefox 44.0
+
+===============================================================
+
+OTHER SUPPORTING FILES
+
+- Automation Practice Test Case.xlsx
+
+===============================================================
+
+HOW TO RUN TESTS
+
