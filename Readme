@@ -17,3 +17,11 @@ OTHER SUPPORTING FILES
 
 HOW TO RUN TESTS
 
+Make a Virtual Environment
+
+To have an isolated environment, use virtualenv:
+virtualenv env --python==python3.5
+source env/bin/activate
+
+Run the test:
+nose aweber.py
